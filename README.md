@@ -17,14 +17,10 @@ Lung and colon cancer are serious worldwide health challenges that require early
     
 ## Dataset Availability
 
-In this research paper, we have employed the **XNLI** dataset, which comprises Bengali-language instances for NLI. The dataset consists of a subset of the MultiNLI data, where each instance includes a premise (`sentence1`), a hypothesis (`sentence2`), and a classification label indicating contradiction (`0`), entailment (`1`), or neutral (`2`). 
+We utilized the **LC25000** dataset, which comprises 25,000 color pictures of lung and colon tissues classified into five categories: colon cancer, benign colonic tissue, lung adenocarcinoma, lung squamous cell carcinoma, and benign lung tissue. Each class consists of 5,000 images cropped to 768 by 768 pixels. The collection is divided into colon and lung image sets in accordance with HIPAA compliance guidelines. It's instrumental in developing diagnostic tools for lung and colon cancers, driving progress in medical imaging research.
 
-We utilized the following number of instances from each set:
-- Train set: 381,449 instances
-- Validation set: 2,419 instances
-- Test set: 4,895 instances
+The dataset can be accessed from [here](https://www.kaggle.com/datasets/xilezhu/lc25000).
 
-The dataset can be accessed from [here](https://huggingface.co/datasets/csebuetnlp/xnli_bn).
 
 
 
