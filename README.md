@@ -25,32 +25,17 @@ The dataset can be accessed from [here](https://www.kaggle.com/datasets/xilezhu/
 
 
 ## Results
-### Comparative Analysis of PLMs for Different Performance Metrics
-
-| Model         | Accuracy | Precision | Recall  | F1-Score |
-|---------------|----------|-----------|---------|----------|
-| **BanglaBERT**| **0.8204** | **0.8222** | **0.8204** | **0.8203** |
-| Bangla BERT Base | 0.6803 | 0.6907 | 0.6812 | 0.6833 |
-| DistilBERT    | 0.6320   | 0.6358    | 0.6320  | 0.6317   |
-| mBERT         | 0.6427   | 0.6496    | 0.6428  | 0.6153   |
-| sahajBERT     | 0.6708   | 0.6791    | 0.6709  | 0.6707   |
-
-
-
-
-### Comparative Analysis of LLMs for Different Performance Metrics
-
-| LLMs              | Metric    | Zero-shot | 5-shot | 10-shot | 15-shot |
-|-------------------|-----------|-----------|--------|---------|---------|
-| **GPT-3.5 Turbo** | Accuracy  | 0.8503    | 0.8657 | 0.8756  | **0.9205** |
-|                   | Precision | 0.7025    | 0.8683 | 0.8753  | **0.9219** |
-|                   | Recall    | 1.0       | 0.8624 | 0.8759  | **0.9204** |
-|                   | F1-Score  | 0.8254    | 0.8640 | 0.8748  | **0.9299** |
-| **Gemini 1.5 Pro**| Accuracy  | 0.7287    | 0.8625 | 0.8732  | **0.9146** |
-|                   | Precision | 0.5556    | 0.8652 | 0.8763  | **0.9156** |
-|                   | Recall    | 0.7143    | 0.8652 | 0.8732  | **0.9146** |
-|                   | F1-Score  | 0.6251    | 0.8652 | 0.8701  | **0.9136** |
-
+### Performance Metrics Comparison of Various Pre-trained CNN Models
+| Model             | Accuracy | Precision | Recall | F1-Score | Jaccard Score | Log Loss |
+|-------------------|----------|-----------|--------|----------|---------------|----------|
+| Xception          | 0.9989   | 0.9989    | 0.9989 | 0.9989   | 0.9978        | 0.0384   |
+| DenseNet201       | 0.9971   | 0.9971    | 0.9971 | 0.9971   | 0.9942        | 0.1057   |
+| ResNet101         | 0.9928   | 0.9928    | 0.9928 | 0.9928   | 0.9858        | 0.2595   |
+| InceptionV3       | 0.9904   | 0.9907    | 0.9904 | 0.9904   | 0.9812        | 0.3460   |
+| DenseNet121       | 0.9896   | 0.9898    | 0.9896 | 0.9896   | 0.9795        | 0.3749   |
+| DenseNet169       | 0.9888   | 0.9888    | 0.9888 | 0.9888   | 0.9781        | 0.4037   |
+| ResNet152         | 0.9885   | 0.9886    | 0.9885 | 0.9885   | 0.9774        | 0.4133   |
+| InceptionResNetV2 | 0.9765   | 0.9765    | 0.9765 | 0.9765   | 0.9547        | 0.8458   |
 
 
 
