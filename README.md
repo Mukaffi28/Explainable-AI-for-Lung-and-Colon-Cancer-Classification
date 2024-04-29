@@ -43,17 +43,16 @@ The dataset can be accessed from [here](https://www.kaggle.com/datasets/xilezhu/
 ## Contact Information
 
 For any questions, collaboration opportunities, or further inquiries, please feel free to reach out:
+- **Mukaffi Bin Moin**
+  - Email: [mukaffi28@gmail.com](mailto:mukaffi28@gmail.com)
 
 - **Fatema Tuj Johora Faria**
   - Email: [fatema.faria142@gmail.com](mailto:fatema.faria142@gmail.com)
 
-- **Mukaffi Bin Moin**
-  - Email: [mukaffi28@gmail.com](mailto:mukaffi28@gmail.com)
-
-- **Pronay Debnath**
-  - Email: [pronaydebnath99@gmail.com](mailto:pronaydebnath99@gmail.com)
-- **Asif Iftekher Fahim**
-  - Email: [fahimthescientist@gmail.com](mailto:fahimthescientist@gmail.com)
+- **Swarnajit Saha**
+  - Email: [swarnajitsaha68@gmail.com](mailto:swarnajitsaha68@gmail.com)
+- **Bushra Kamal Rafa**
+  - Email: [brafa263.3@gmail.com](mailto:brafa263.3@gmail.com)
     
 ## Citation
 
