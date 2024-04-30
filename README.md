@@ -37,6 +37,7 @@ The dataset can be accessed from [here](https://www.kaggle.com/datasets/xilezhu/
 | ResNet152         | 0.9885   | 0.9886    | 0.9885 | 0.9885   | 0.9774        | 0.4133   |
 | InceptionResNetV2 | 0.9765   | 0.9765    | 0.9765 | 0.9765   | 0.9547        | 0.8458   |
 
+### Confusion matrix
 ![Confusion matrix](lung_page-0002.png)
 
 
