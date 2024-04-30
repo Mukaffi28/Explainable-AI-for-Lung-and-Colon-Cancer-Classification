@@ -57,7 +57,7 @@ For any questions, collaboration opportunities, or further inquiries, please fee
     
 ## Citation
 
-If you find the dataset or the associated research work helpful, please consider citing our paper:
+<!-- If you find the dataset or the associated research work helpful, please consider citing our paper:
 
 ```bibtex
 @misc{faria2023vashantor,
@@ -67,7 +67,7 @@ If you find the dataset or the associated research work helpful, please consider
   eprint={2311.11142},
   archivePrefix={arXiv},
   primaryClass={cs.CL}
-}
+} -->
 
 
 
