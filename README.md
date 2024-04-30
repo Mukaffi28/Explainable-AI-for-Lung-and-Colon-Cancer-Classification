@@ -12,7 +12,7 @@ Lung and colon cancer are serious worldwide health challenges that require early
 
 
 ## Proposed Methodology
-![Methodology](NLI_with_page-0001.jpg)
+![Methodology](lung_page-0001.jpg)
 
     
 ## Dataset Availability
