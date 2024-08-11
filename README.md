@@ -71,18 +71,16 @@ For any questions, collaboration opportunities, or further inquiries, please fee
   - Email: [brafa263.3@gmail.com](mailto:brafa263.3@gmail.com)
     
 ## Citation
-
-<!-- If you find the dataset or the associated research work helpful, please consider citing our paper:
-
+If you find the associated research work helpful, please consider citing our paper:
 ```bibtex
-@misc{faria2023vashantor,
-  title={Vashantor: A Large-scale Multilingual Benchmark Dataset for Automated Translation of Bangla Regional Dialects to Bangla Language},
-  author={Fatema Tuj Johora Faria and Mukaffi Bin Moin and Ahmed Al Wase and Mehidi Ahmmed and Md. Rabius Sani and Tashreef Muhammad},
-  year={2023},
-  eprint={2311.11142},
-  archivePrefix={arXiv},
-  primaryClass={cs.CL}
-} -->
-
+@misc{moin2024exploringexplainableaitechniques,
+      title={Exploring Explainable AI Techniques for Improved Interpretability in Lung and Colon Cancer Classification}, 
+      author={Mukaffi Bin Moin and Fatema Tuj Johora Faria and Swarnajit Saha and Busra Kamal Rafa and Mohammad Shafiul Alam},
+      year={2024},
+      eprint={2405.04610},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV},
+      url={https://arxiv.org/abs/2405.04610}, 
+}
 
 
