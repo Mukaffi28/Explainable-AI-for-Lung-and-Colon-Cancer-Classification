@@ -1,6 +1,20 @@
 # Exploring Explainable AI Techniques for Improved Interpretability in Lung and Colon Cancer Classification
 ## Abstract
-Lung and colon cancer are serious worldwide health challenges that require early and precise identification to reduce mortality risks. However, diagnosis, which is mostly dependent on histopathologists' competence, presents difficulties and hazards when expertise is insufficient. While diagnostic methods like imaging and blood markers contribute to early detection, histopathology remains the gold standard, although time-consuming and vulnerable to inter-observer mistakes. Limited access to high-end technology further limits patients' ability to receive immediate medical care and diagnosis. Recent advances in deep learning have generated interest in its application to medical imaging analysis, specifically the use of histopathological images to diagnose lung and colon cancer. The goal of this investigation is to use and adapt existing pre-trained CNN-based models, such as Xception, DenseNet201, ResNet101, InceptionV3, DenseNet121, DenseNet169, ResNet152, and InceptionResNetV2, to enhance classification through better augmentation strategies. The results show tremendous progress, with all eight models reaching impressive accuracy ranging from 97% to 99%. Furthermore, attention visualization techniques such as GradCAM, GradCAM++, ScoreCAM, Faster Score-CAM, and LayerCAM, as well as Vanilla Saliency and SmoothGrad, are used to provide insights into the models' classification decisions, thereby improving interpretability and understanding of malignant and benign image classification.
+Lung and colon cancer are serious worldwide health challenges that require early and precise identification
+to reduce mortality risks. However, diagnosis, which is mostly dependent on histopathologists’ competence,
+presents difficulties and hazards when expertise is insufficient. While diagnostic methods like imaging and
+blood markers contribute to early detection, histopathology remains the gold standard, although timeconsuming and vulnerable to inter-observer mistakes. Limited access to high-end technology further limits
+patients’ ability to receive immediate medical care and diagnosis. Recent advances in deep learning have
+generated interest in its application to medical imaging analysis, specifically the use of histopathological
+images to diagnose lung and colon cancer. The goal of this investigation is to use and adapt existing
+pre-trained CNN-based models, such as Xception, DenseNet201, ResNet101, InceptionV3, DenseNet121,
+DenseNet169, ResNet152, and InceptionResNetV2, to enhance classification through better augmentation
+strategies. The results show tremendous progress, with all eight models reaching impressive accuracy ranging
+from 97% to 99%. Furthermore, attention visualization techniques such as GradCAM, GradCAM++,
+ScoreCAM, Faster Score-CAM, and LayerCAM, as well as Vanilla Saliency and SmoothGrad, are used to
+provide insights into the models’ classification decisions, thereby improving interpretability and understanding
+of malignant and benign image classification. Our research implementations are open to the public at:
+https://github.com/Mukaffi28/Explainable-AI-for-Lung-and-Colon-Cancer-Classification
 
 
 ## Table of Contents
