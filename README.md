@@ -1,5 +1,6 @@
 # Exploring Explainable AI Techniques for Improved Interpretability in Lung and Colon Cancer Classification
 ## Abstract
+
 Lung and colon cancer are serious worldwide health challenges that require early and precise identification
 to reduce mortality risks. However, diagnosis, which is mostly dependent on histopathologists’ competence,
 presents difficulties and hazards when expertise is insufficient. While diagnostic methods like imaging and
@@ -17,6 +18,7 @@ of malignant and benign image classification. Our research implementations are o
 https://github.com/Mukaffi28/Explainable-AI-for-Lung-and-Colon-Cancer-Classification
 
 
+
 ## Table of Contents
 - [Proposed Methodology](#experimental-methodology)
 - [Dataset Availability](#dataset-availability)
@@ -31,8 +33,8 @@ https://github.com/Mukaffi28/Explainable-AI-for-Lung-and-Colon-Cancer-Classifica
     
 ## Dataset Availability
 
+
 We utilized the **LC25000** dataset.
-<!--, which comprises 25,000 color pictures of lung and colon tissues classified into five categories: colon cancer, benign colonic tissue, lung adenocarcinoma, lung squamous cell carcinoma, and benign lung tissue. Each class consists of 5,000 images cropped to 768 by 768 pixels. The collection is divided into colon and lung image sets in accordance with HIPAA compliance guidelines. It's instrumental in developing diagnostic tools for lung and colon cancers, driving progress in medical imaging research.-->
 
 The dataset can be accessed from [here](https://www.kaggle.com/datasets/xilezhu/lc25000).
 
